@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 31%;
+}
+
+body{
+    margin: 25px;
+    padding: 25px;
+}
+h1, h5, p, img{
+    margin-bottom: 15px;
+}
